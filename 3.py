@@ -1,0 +1,1 @@
+print ("hello krupa . i am 3.py")
